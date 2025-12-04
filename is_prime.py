@@ -6,5 +6,8 @@ def prime():
             d +=  1 
         return d == p
     print(simple(p))
+def main():
+    prime()
 if __name__== '__main__':
     prime()
+

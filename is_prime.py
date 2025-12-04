@@ -9,5 +9,6 @@ def prime():
 def main():
     prime()
 if __name__== '__main__':
-    prime()
+    main()
+
 

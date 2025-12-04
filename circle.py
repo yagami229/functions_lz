@@ -9,6 +9,9 @@ def circle():
         return pi*r**2
     print('длина окружности:', dlina(r, pi), 'см')
     print('Площадь окружности:', square(r, pi), 'см^2')
+def main():
+    circle()
 
 if __name__== '__main__':
     circle()
+

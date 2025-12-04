@@ -13,5 +13,6 @@ def main():
     circle()
 
 if __name__== '__main__':
-    circle()
+    main()
+
 
